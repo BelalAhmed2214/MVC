@@ -1,18 +1,20 @@
 {
-    {
-        "name": "Belal Ahmed/Mvc",
-        "description": "Mvc",
-        "require": {
+        "name": "Belal Ahmed/mvc",
+        "description": "mvc",
+        "require":
+        {
             "php": ">=7.4",
             "another-vendor/package": "1.*"
-        }
-    },
-    "autoload": {
-        "psr-4": {
+        },
+    "autoload": 
+    {
+        "psr-4": 
+        {
             "MVC\\": "app"
         }
     },
-    "require": {
+    "require": 
+    {
         "dcblogdev/pdo-wrapper": "^2.0",
         "rakit/validation": "^1.4"
     }
