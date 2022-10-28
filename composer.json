@@ -1,6 +1,7 @@
 {
-        "name": "Belal Ahmed/mvc",
-        "description": "mvc",
+        "name": "belalahmed/mvc",
+
+        "description": "MVC Framework Package to make building project more easier",
         "require":
         {
             "php": ">=7.4",
